@@ -2964,7 +2964,7 @@
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: rgba(23, 24, 32, 0.95);
+			background: rgba(0, 0, 0, 0.3);
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3084,7 +3084,7 @@
 		.wrapper.style2 {
 		background-attachment: fixed;
 		background-color: #e44c65;
-		background-image: url("C:/Users/user/Desktop/1st Project Successeful/OLD AGE HOME SPAIN/Landed by HTML5 UP_files/pic05.jpg");
+		background-image: url("https://raw.githubusercontent.com/prashantchordia1999/OLD-AGE-HOME/master/pic05.jpg");
 
 		opacity: 1;
 		background-position: center center;
@@ -3265,8 +3265,8 @@
 	}
 
 	#header {
-		background: rgba(39, 40, 51, 0.965);
-		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
+		background: rgba(0, 0, 0, 0.3);
+		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.2);
 		cursor: default;
 		height: 3.5em;
 		left: 0;
@@ -3342,14 +3342,13 @@
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272830;
-		background-image: url("C:/Users/user/Desktop/1st Project Successeful/OLD AGE HOME SPAIN/Landed by HTML5 UP_files/pic01.jpg");
+		background-color: #47C0CD;
+		background-image: url("https://raw.githubusercontent.com/prashantchordia1999/OLD-AGE-HOME/master/Landed%20by%20HTML5%20UP_files/pic01.jpg");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.3);
 		min-height: 100vh;
 		position: relative;
-		text-align: center;
 		z-index: 21;
 	}
 
@@ -3362,10 +3361,10 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(71, 192, 205, 0.8), rgba(71, 192, 205, 0.8)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(71, 192, 205, 0.8), rgba(71, 192, 205, 0.8)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(71, 192, 205, 0.8), rgba(71, 192, 205, 0.8)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(71, 192, 205, 0.8), rgba(71, 192, 205, 0.8)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;
